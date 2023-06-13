@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">VolumeKubus</string>
+    <string name="panjang">Panjang</string>
+
+    <string-array name="data_mhs">
+        <item>MUHAMMAD NAYAKA PUTRA</item>
+        <item>Ikhwan Prananta Hasugian</item>
+        <item>RIAMA RAULINA BORU SILABAN</item>
+        <item>JELLY ULITA TAMSAR</item>
+        <item>AZURA SEVINA PUTRI</item>
+        <item>FAHRIZAL GINTING</item>
+        <item>SADTRIA YUDOYONO PRASETIO</item>
+        <item>JANITA RAKSHANDA INGEYLA</item>
+        <item>Patricia Marbun</item>
+        <item>ILYAS AL-MUADZ</item>
+        <item>ERIKA YORENTA SEMBIRING</item>
+        <item>ELISABET SIMANJUNTAK</item>
+        <item>PELANGI SANRILA SINURAT</item>
+        <item>YEMIMA FRANSISKA HASIAN SIMANJUNTAK</item>
+        <item>NANDITO ANANDA GINTING</item>
+        <item>Khairunnisa</item>
+        <item>R. Khairu Wahyutama</item>
+        <item>OKMA SANGAPTARAS GINTING</item>
+        <item>Grant Gabriel Tambunan</item>
+        <item>UFY ANANDA YATNA</item>
+        <item>MUHAMAD RAFI DEVARI HASIBUAN</item>
+        <item>TASYA AMELIA</item>
+        <item>Jeconiah Samuel Christian Nababan</item>
+        <item>RAYEZ FAUZAN ALKATIRI</item>
+        <item>Muhammad Naufal Azmi Lubis</item>
+        <item>AMELIA JOHANA ROMAITO PANJAITAN</item>
+        <item>OSWALD ADRIAN SILALAHI</item>
+        <item>ALEXANDER BREMA PINDONTA SITEPU</item>
+        <item>CHRISTY ELIANA SIMARMATA</item>
+        <item>DAMAI C C HUTAURUK</item>
+        <item>ELISABET SRI HARTATI BERUTU</item>
+        <item>FATHURRAHMAN</item>
+        <item>FILDZA RASYIKA</item>
+        <item>IBRA RIZQY SIREGAR</item>
+        <item>JEREMY SHARON TARIGAN</item>
+        <item>KHALIL RAMZY NASUTION</item>
+        <item>MIREKEL NAINGGOLAN</item>
+        <item>MUHAMMAD DZIKRIE ZAINI</item>
+        <item>MUHAMMAD THORIQ AL ASYJARI</item>
+        <item>NOOR HASNI MARSHANDA</item>
+        <item>RAFLI ANWARSYAH DAULAY</item>
+        <item>RUTH LIMIKE PUTERI SIHALOHO</item>
+        <item>SAMUEL BINTANG CHRISTOPER SILAEN</item>
+        <item>WILLIAM BENADECTUS HUTAPEA</item>
+        <item>GERALD SALOMO PASARIBU</item>
+    </string-array>
+
+</resources>

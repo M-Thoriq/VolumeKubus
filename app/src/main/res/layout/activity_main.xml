@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_1"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="3dp"
+        android:padding="3dp"
+        android:layout_height="0dp">
+
+        <TextView
+            android:id="@+id/tv_panjang"
+            android:layout_marginTop="11dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/panjang"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="143dp" />
+
+        <EditText
+            android:id="@+id/et_panjang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="2dp"
+            android:inputType="numberDecimal"
+            tools:layout_editor_absoluteY="136dp" />
+
+        <TextView
+            android:id="@+id/tv_lebar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:text="Lebar"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="143dp" />
+
+        <EditText
+            android:id="@+id/et_lebar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="2dp"
+            android:inputType="numberDecimal"
+            tools:layout_editor_absoluteY="143dp" />
+
+        <TextView
+            android:id="@+id/tv_tinggi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:text="Tinggi"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="136dp" />
+
+        <EditText
+            android:id="@+id/et_tinggi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="2dp"
+            android:inputType="numberDecimal"
+            tools:layout_editor_absoluteY="159dp" />
+
+        <Button
+            android:id="@+id/btn_hitung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="11dp"
+            android:text="Hitung"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:layout_editor_absoluteX="2dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_hasil"
+            android:gravity="center"
+            android:hint="Hasil"/>
+
+    </LinearLayout>
+
+
+</ScrollView>
